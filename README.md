@@ -1,4 +1,4 @@
-# pzdcPACK
+# PzdcPACK
 РесурсПак для сервера PIZDEC Craft
 
 # Установка
