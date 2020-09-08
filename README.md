@@ -1,5 +1,5 @@
-# VTostersPack
-РесурсПак для сервера [VTostersCraft](https://mc.gdlbo.net)
+# pzdcpack
+РесурсПак для сервера pzdccraft (rip 2018-2020)
 
 # Установка
 1. Скачайте самую новую версию пака в формате zip
